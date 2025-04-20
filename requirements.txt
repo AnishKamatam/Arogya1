@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-openai
+langchainhub
+neo4j
+python-dotenv
+ollama
